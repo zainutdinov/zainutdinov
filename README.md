@@ -6,20 +6,18 @@ I'm a **Python Developer** passionate about learning and building clean, scalabl
 I have developed 4 educational (pet) projects that demonstrate my proficiency in Python and my ability to work with various technologies. These projects are available in my GitHub repositories.
 
 ## My tech stack
-![Python](https://img.shields.io/badge/-Python-000?logo=python)
-![Flask](https://img.shields.io/badge/-Flask-000?logo=flask)
-![Django](https://img.shields.io/badge/-Django-000?logo=django)
-![Docker](https://img.shields.io/badge/-Docker-000?logo=docker)
-![SQL](https://img.shields.io/badge/-SQL-000?logo=postgresql)
-![Django ORM](https://img.shields.io/badge/-Django%20ORM-000?logo=django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-000?logo=sqlite)
-![OOP](https://img.shields.io/badge/-OOP-000?logo=python)
-![CI/CD](https://img.shields.io/badge/-CI/CD-000?logo=githubactions)
-![REST API](https://img.shields.io/badge/-REST%20API-000?logo=swagger)
-![Pytest](https://img.shields.io/badge/-Pytest-000?logo=pytest)
-![Linux](https://img.shields.io/badge/-Linux-000?logo=linux)
-![Bash](https://img.shields.io/badge/-Bash-000?logo=gnu-bash)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=githubactions&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Education
 I have a higher technical education and have completed professional training as a **Python Developer** at **Hexlet**.  
