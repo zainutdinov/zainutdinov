@@ -21,6 +21,19 @@ I have developed 4 educational (pet) projects that demonstrate my proficiency in
 ![Linux](https://img.shields.io/badge/-Linux-000?logo=linux)
 ![Bash](https://img.shields.io/badge/-Bash-000?logo=gnu-bash)
 
+## Education
+I have a higher technical education and have completed professional training as a **Python Developer** at **Hexlet**.  
+I am constantly learning and striving to grow as a professional. I read a lot of professional literature and actively apply my knowledge in projects.
+
+## Work Experience
+For 4 years, I worked in **administration of online schools**, where I:
+- Built and maintained technical infrastructure.
+- Configured various online services.
+- Created Telegram bots and email marketing campaigns.
+- Set up LMS (Learning Management Systems).
+- Developed web pages using HTML/CSS.
+- Managed a team of technical specialists.
+
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainutdinov&show_icons=true&theme=radical)
 
