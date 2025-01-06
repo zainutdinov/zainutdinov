@@ -26,7 +26,7 @@ I have developed 4 educational (pet) projects that demonstrate my proficiency in
 
 ## Let's Connect
 - **Email:** [zainutdinov.aaa@gmail.com](mailto:zainutdinov.aaa@gmail.com)
-- **Telegram:** [t.me/zaynutdinov_aa](https://t.me/zaynutdinov_aa)
+- **Telegram:** [www.t.me/zaynutdinov_aa](https://t.me/zaynutdinov_aa)
 - **LinkedIn:** [www.linkedin.com/in/zainutdinov](https://www.linkedin.com/in/zainutdinov)
 
 ---
