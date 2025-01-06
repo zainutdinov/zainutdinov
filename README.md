@@ -22,7 +22,7 @@ I have developed 4 educational (pet) projects that demonstrate my proficiency in
 ![Bash](https://img.shields.io/badge/-Bash-000?logo=gnu-bash)
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainutdinov&show_icons=true&theme=radical)
 
 ## Let's Connect
 - **Email:** [zainutdinov.aaa@gmail.com](mailto:zainutdinov.aaa@gmail.com)
