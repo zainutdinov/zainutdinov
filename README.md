@@ -2,7 +2,7 @@
 
 I'm a **Python Developer** passionate about learning and building clean, scalable, and efficient solutions. I enjoy exploring new technologies and continuously improving my skills.
 
-## Educational Projects
+## My projects
 I have developed 4 educational (pet) projects that demonstrate my proficiency in Python and my ability to work with various technologies. These projects are available in my GitHub repositories.
 
 ## My tech stack
@@ -25,7 +25,7 @@ I have developed 4 educational (pet) projects that demonstrate my proficiency in
 I have a higher technical education and have completed professional training as a **Python Developer** at **Hexlet**.  
 I am constantly learning and striving to grow as a professional. I read a lot of professional literature and actively apply my knowledge in projects.
 
-## Work Experience
+## Work experience
 For 4 years, I worked in **administration of online schools**, where I:
 - Built and maintained technical infrastructure.
 - Configured various online services.
@@ -37,7 +37,7 @@ For 4 years, I worked in **administration of online schools**, where I:
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainutdinov&show_icons=true&theme=radical)
 
-## Let's Connect
+## Let's connect
 - **Email:** [zainutdinov.aaa@gmail.com](mailto:zainutdinov.aaa@gmail.com)
 - **Telegram:** [www.t.me/zaynutdinov_aa](https://t.me/zaynutdinov_aa)
 - **LinkedIn:** [www.linkedin.com/in/zainutdinov](https://www.linkedin.com/in/zainutdinov)
